@@ -1,0 +1,21 @@
+{
+  "name": "clinics-checkin",
+  "version": "1.0.0",
+  "description": "Digital Patient Check-in System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "pinia": "^2.1.6",
+    "bootstrap": "^5.3.0",
+    "@popperjs/core": "^2.11.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
