@@ -1,4 +1,10 @@
+my name is MUGISHA ELISE
+AND IRAGUHA SARIMU
+IN L3SODA
+
+
 # Digital Patient Check-in System
+
 
 A Vue.js-based clinic check-in system that implements core programming concepts including reactive variables, conditional statements, arrays, loops, and functions.
 
